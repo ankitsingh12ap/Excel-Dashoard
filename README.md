@@ -3,7 +3,7 @@
 
 This project is an interactive Excel dashboard created to analyze and visualize sales data for **Sujeet Store**. It provides powerful insights through dynamic charts, key performance indicators (KPIs), and slicers, making it easier to explore and interpret sales trends.
 
-675ba0f6-3a28-4194-83dd-191e7b26f8b1.jpg
+![Dashboard Screenshot](675ba0f6-3a28-4194-83dd-191e7b26f8b1.jpg)
 
 
 
@@ -83,6 +83,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgments
 
-Thanks to **Vivekb638** for the project idea and execution.
+Thanks to **Ankitsingh12ap** for the project idea and execution.
 
 ---
